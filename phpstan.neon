@@ -1,0 +1,14 @@
+# 0 is the loosest and 9 is the strictest.
+parameters:
+    level: 4
+    paths:
+        - assets
+        - commands
+        - controllers
+        - enums
+        - jobs
+        - models
+        - services
+        - widgets
+    bootstrapFiles:
+        - vendor/yiisoft/yii2/Yii.php
